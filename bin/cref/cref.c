@@ -1,4 +1,6 @@
 /* cref.c - generate cross reference */
+/* Author: M. Brent Harp    (brharp@uoguelph.ca) */
+/* Date: 12/20/2016 */
 
 #include <stdlib.h>
 #include <stdio.h>
